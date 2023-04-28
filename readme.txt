@@ -47,10 +47,10 @@ Contributions are welcome! If you would like to contribute to the Medical Store 
 https://github.com/Nit078/Medical-store-Management/blob/master/photo/login%20page.png
 
 
-https://github.com/Nit078/Medical-store-Management/blob/master/photo/HomeScreen2.png
 
+https://github.com/Nit078/Medical-store-Management/blob/master/photo/Homescreen.png
 
-
+https://github.com/Nit078/Medical-store-Management/blob/master/photo/inside%20page.png
 
 
 
