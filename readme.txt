@@ -41,7 +41,7 @@ Use the system to manage inventory, sales, purchases, customers, staff members, 
 Contributing
 Contributions are welcome! If you would like to contribute to the Medical Store Management System, please fork the repository and submit a pull request.
 
-<img src="https://github.com/Nit078/Medical-store-Management/blob/master/photo/login.jpg" height="700" />
+<img src="https://github.com/Nit078/Medical-store-Management/blob/master/photo/HomeScreen2.png?raw=true" height="700" />
 
 
 
