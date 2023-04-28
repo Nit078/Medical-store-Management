@@ -41,6 +41,7 @@ Use the system to manage inventory, sales, purchases, customers, staff members, 
 Contributing
 Contributions are welcome! If you would like to contribute to the Medical Store Management System, please fork the repository and submit a pull request.
 
+![login page](https://user-images.githubusercontent.com/76880836/235195615-532f85e6-2325-413a-a38f-da8987c8c98a.png)
 
 
 
@@ -57,8 +58,3 @@ Contributions are welcome! If you would like to contribute to the Medical Store 
 
 
 
-
-![login page](https://user-images.githubusercontent.com/76880836/235195142-19bf1478-d629-4d51-ae0c-644c0cdbea47.png)
-![Homescreen](https://user-images.githubusercontent.com/76880836/235195155-f11e3b42-0ec9-4022-9b77-4271a9cdd2c6.png)
-![HomeScreen2](https://user-images.githubusercontent.com/76880836/235195161-fb1ec719-ad13-4306-8300-fbaad2f077e5.png)
-![inside page](https://user-images.githubusercontent.com/76880836/235195165-e94f04f9-8a68-4bf0-bc60-5647319fae0b.png)
